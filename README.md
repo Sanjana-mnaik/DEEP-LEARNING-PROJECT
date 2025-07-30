@@ -31,3 +31,4 @@ This task provided practical exposure to the workflow of image classification an
 <img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/22864c0c-c720-4315-8f0f-afe36e654ca8" />
 
 
+
