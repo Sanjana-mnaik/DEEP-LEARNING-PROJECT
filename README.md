@@ -22,3 +22,12 @@ The dataset for this task was organized into two folders: one named cats contain
 After training, the model was able to correctly classify test images such as c5.jpeg as a cat and d5.jpeg as a dog, showcasing its ability to learn visual features and patterns. Throughout the project, I gained hands-on experience in critical deep learning concepts such as defining model architecture, using data loaders, transforming image data, training and validating a model, and evaluating predictions.
 
 This task provided practical exposure to the workflow of image classification and the use of PyTorch for developing deep learning models. Projects like this have significant real-world applications in fields such as medical image analysis, security and surveillance, animal species recognition, retail automation, and smartphone apps that rely on object recognition. The successful implementation of this task not only improved my understanding of neural networks and image data but also demonstrated how deep learning techniques can solve real-world problems efficiently and effectively.
+
+
+#OUTPUT
+
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/41984b06-25bd-4ca1-8f3a-64d0cd58e27e" />
+
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/22864c0c-c720-4315-8f0f-afe36e654ca8" />
+
+
